@@ -1,0 +1,2 @@
+# MultiThreadDown
+Android下的一个多线程下载的demo 摘自疯狂安卓讲义的源码
